@@ -1,0 +1,18 @@
+{
+    "name": "mwltr/magedeploy2-base",
+    "description": "Magento2 Deployment Setup using Robo and Deployer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthias Walter",
+            "email": "mat.walter@web.de"
+        }
+    ],
+    "require": {
+        "consolidation/robo": "^1.0",
+        "deployer/deployer": "^6.0",
+        "mwltr/magedeploy2": "^2.0",
+        "n98/n98-deployer": "^3.0"
+    }
+}

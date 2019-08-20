@@ -1,0 +1,7 @@
+.env
+.idea
+artifacts/*
+!artifacts/.gitkeep
+config/local.php
+vendor
+shop
